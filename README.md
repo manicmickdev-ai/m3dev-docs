@@ -113,4 +113,5 @@ git submodule update --remote skills
 
 | Repo | Description |
 |------|-------------|
-| [m3dev_ecosystem](https://github.com/manicmickdev-ai/m3dev_ecosystem) | Core M3Dev platform and infrastructure |
+| [m3dev_ecosystem](https://github.com/manicmickdev-ai/m3dev_ecosystem) | Core M3Dev platform — FastAPI backend, Next.js frontend, PostgreSQL/pgvector, vLLM GPU inference, Helm/K8s deployment |
+| [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | Community Claude Code skills library (tracked as `skills/` submodule) |
