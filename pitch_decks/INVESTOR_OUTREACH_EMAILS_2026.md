@@ -15,6 +15,9 @@
 
 ## EMAIL 1 — NC IDEA SEED (Grant Application / Program Officer)
 
+> ⚠️ **DEADLINE PASSED — Feb 23, 2026**
+> This email template is preserved for the next cycle. NC IDEA SEED typically runs two rounds per year. Monitor https://ncidea.org for the next application window and update dates accordingly before sending.
+
 **To**: programs@ncidea.org
 **Subject**: SDVOSB Sovereign AI Platform — NC IDEA SEED Application
 **Attach**: Appendix A from M3DEV_MASTER_PITCH_DECK_2026.md
@@ -288,7 +291,7 @@ Either way, thank you for your time.
 
 | Email | Attach / Link |
 |-------|--------------|
-| NC IDEA SEED | Appendix A slides (NC impact, job creation, ask) |
+| ~~NC IDEA SEED~~ | ~~Appendix A slides~~ — **DEADLINE PASSED Feb 23. Next cycle TBD.** |
 | Rice BPC | Full core deck (slides 01–12) + Appendix B (financials deep dive) |
 | Angel Cold | One-pager: extract slides 01, 06, 07, 10, 12 |
 | Angel Warm | Core deck (01–12) + Appendix C (founder story, exit comps) |
