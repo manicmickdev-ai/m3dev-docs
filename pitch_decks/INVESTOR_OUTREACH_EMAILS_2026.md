@@ -1,7 +1,7 @@
 # M3Dev — Investor Outreach Emails
 **Date**: 2026-02-25
 **Sender**: [Your Name], Managing Member, M3Dev LLC
-**Investor Portal**: https://m3dev.vercel.app/reports
+**Investor Portal**: https://frontend-six-psi-28.vercel.app/reports
 
 ---
 
@@ -44,7 +44,7 @@ $50,000 in NC IDEA SEED funding would:
 
 A veteran built this. A veteran runs it. And it's built for the regulated industries North Carolina depends on.
 
-I'd welcome the opportunity to walk through our application and answer any questions about fit. Our investor portal is live at https://m3dev.vercel.app/reports with full financial and product documentation.
+I'd welcome the opportunity to walk through our application and answer any questions about fit. Our investor portal is live at https://frontend-six-psi-28.vercel.app/reports with full financial and product documentation.
 
 Respectfully,
 
@@ -84,7 +84,7 @@ The numbers version:
 - Year 10: $42M ARR, 89% net margin
 - 10-year cumulative profit: $108M (self-funded, no external capital required to reach $1M ARR)
 
-Full financial model, product documentation, and competitive analysis are live at https://m3dev.vercel.app/reports.
+Full financial model, product documentation, and competitive analysis are live at https://frontend-six-psi-28.vercel.app/reports.
 
 I'd be grateful for the opportunity to present at Rice BPC. The pitch deck and extended financials are attached.
 
@@ -124,7 +124,7 @@ I'm raising $[Amount] to accelerate the open-source plugin launches (WordPress, 
 
 Comparable exits in this space: Palantir ($22B), Glean ($4.6B), Writer ($1.9B). Same buyer profile, earlier stage, more focused.
 
-5-minute investor portal: https://m3dev.vercel.app/reports
+5-minute investor portal: https://frontend-six-psi-28.vercel.app/reports
 
 Worth 20 minutes?
 
@@ -154,7 +154,7 @@ I'm a service-disabled veteran. I built the platform alone — no co-founder, no
 
 What I'd find most valuable: 20–30 minutes to get your honest read on the market thesis and where you see the gaps. Not a pitch — a conversation.
 
-Full context at https://m3dev.vercel.app/reports if you want to dig in before we talk.
+Full context at https://frontend-six-psi-28.vercel.app/reports if you want to dig in before we talk.
 
 Either way, thank you for taking the time.
 
@@ -276,7 +276,7 @@ Just a brief follow-up on my note from [Day].
 
 No pressure — I know the inbox is relentless. If the timing isn't right or the fit isn't there, I'd genuinely appreciate a quick note so I can stop following up.
 
-If you're still interested but haven't had the chance to look, the investor portal has everything at a glance: https://m3dev.vercel.app/reports
+If you're still interested but haven't had the chance to look, the investor portal has everything at a glance: https://frontend-six-psi-28.vercel.app/reports
 
 Either way, thank you for your time.
 
